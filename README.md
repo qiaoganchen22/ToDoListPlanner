@@ -1,5 +1,8 @@
 # ToDoListPlanner
 
+![todolist](https://user-images.githubusercontent.com/38334354/117333765-3fca0200-ae67-11eb-9470-f7884fdac6aa.jpg)
+
+
 ToDoList Planner is an android app that allows you to plan your activities for the day. You can add any activity to the app as a reminder of what you need to do and remove any activity 
 once you are finished. You can remove each activity by simply holding down on it. This is an app that requires android studios.
 
